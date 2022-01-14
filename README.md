@@ -1,5 +1,5 @@
 Md nasim,
-Currently studying at government college of technology,cbe
-Department of information technology
+Currently studying at Government College Of Technology,cbe
+Department of Information Technology
 Stack developer
 
