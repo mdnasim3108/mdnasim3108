@@ -17,23 +17,22 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />|<img alt="Node.js" title="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">|<img title="Next.js" alt="Next.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png">|<img title="Redux" alt="Redux" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png" /><br/>
 
-|--|--|--|--|--|
-<img alt="Express.js" title="Express.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png">|<img alt="Spring Boot" title="Spring Boot" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png">|<img title="Stripe" alt="Stripe" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/stripe/stripe.png">|<img title="SASS" alt="SASS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png">|<img title="HTML5" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">|<img title="Tailwind CSS" alt="Tailwind CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png">
+<img alt="Express.js" title="Express.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png">|<img alt="Spring Boot" title="Spring Boot" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png">|<img title="SASS" alt="SASS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png">|<img title="HTML5" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">|<img title="Tailwind CSS" alt="Tailwind CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png">
 
-**Infrastructure**
-
-<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png">|<img title="Heroku" alt="Heroku" width="40px" src="https://img.icons8.com/color/48/000000/heroku.png">
-|--|--|--|
 
 **Databases**
 
 <img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"> <br>
-|--|--|--|
+
+
+**Infrastructure**
+<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Heroku" alt="Heroku" width="40px" src="https://img.icons8.com/color/48/000000/heroku.png">
+
 
 **Tools**
 
 <img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
-|--|--|--|--|--|
+
 <br>
 
 
