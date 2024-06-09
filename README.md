@@ -29,11 +29,14 @@
 <br/>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div align="center">
+
  
-![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdnasim3108\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+  <img src="https://github-readme-stats.vercel.app/api?username=mdnasim3108&theme=midnight-purple&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mdnasim3108&theme=midnight-purple)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com/?user=mdnasim3108&theme=midnight-purple"/>
+ 
 
+[![GitHub Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdnasim3108&theme=radical)
 </div>
 
 <br>
