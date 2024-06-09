@@ -1,45 +1,90 @@
 
+<h1 align="center">Hi 👋, I'm Mohamed Nasim</h1>
+<h3 align="center">A passionate Programmer from Chennai, India</h3>
+<!--  <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" />  -->
+<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
+<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
+</p>
+
+<div align="center">
  
-<h1>Hi There, I'm Nasim <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
 
-I'm a **Fullstack Engineer** working at [Onebill Software]. My day to day work revolves around building Web projects for various interesting problems and deploying them to production, at scale. I'm open to collaborate on interesting projects.
-
-## Skill Set :muscle:
-
-These are some of the major technologies that I use or have worked on in the past:
-
-**Programming Languages**
-
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">|<img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">
-|--|--|--|--|--|
-
-**Libraries and Frameworks**
-
-<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" /><img alt="Node.js" title="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"><img title="Next.js" alt="Next.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png"><img title="Redux" alt="Redux" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png" /><br/>
-
-<img alt="Express.js" title="Express.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png"><img alt="Spring Boot" title="Spring Boot" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png"><img title="SASS" alt="SASS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png"><img title="HTML5" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"><img title="Tailwind CSS" alt="Tailwind CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png">
-
-
-**Databases**
-
-<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"><img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"> <br>
-
-
-**Infrastructure**
-<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"><img title="Heroku" alt="Heroku" width="40px" src="https://img.icons8.com/color/48/000000/heroku.png">
-
-
-**Tools**
-
-<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png"><img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"><img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"><img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
+</div>
 
 <br>
 
+<div align="center">
+ <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
 
-## Let's Connect :handshake:
 
-<a href="https://www.linkedin.com/in/mohamednasim-m/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a><a href="https://www.kaggle.com/techytushar/"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"></a>
+</div>
+
+<br/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<div align="center">
+ 
+![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdnasim3108\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mdnasim3108&theme=midnight-purple)](https://git.io/streak-stats)
+
+</div>
+
+<br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Languages and Tools:</h3>
+
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,nodejs,flask,fastapi,express" />
+  </a>
+</p>
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+  </a>
+</p>
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  </a>
+</p>
 
 
-### Here is a random meme for you, to make your day better
-(*PS: Refresh the page to see a new meme* :wink: )
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+  </a>
+</p>
+
+
+ <br><br>
+
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Activity:</h3>
+
+![Nasim's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdnasim3108&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+
